@@ -1,0 +1,63 @@
+a {
+    text-decoration: none;
+    color: white;
+}
+.banner {
+    margin: 0 auto;
+    display: block;
+}
+body {
+    background-color: #1d1d1d;   
+    position: relative;
+}
+#gods {
+    list-style: none; 
+    max-width: 960px;
+    margin: 0 auto;
+    display: block;
+}
+header {
+    background-color: #1d1d1d;   
+}
+
+footer {
+    color: white;
+}
+
+footer ul {
+    margin: 0 auto;
+    display: block;
+    width: 40%;
+    text-align: center;
+}
+
+footer ul li {
+    display: inline-block;
+    margin: 0 7em;
+    
+}
+
+footer ul li img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+/* JQUERY */
+
+#overlay {
+    color: white;
+    position:absolute;
+    left:50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: #000;
+    filter:alpha(opacity=50);
+    -moz-opacity:0.5;
+    -khtml-opacity: 0.5;
+    opacity: 0.5;
+
+    border: solid white 4px;
+}
