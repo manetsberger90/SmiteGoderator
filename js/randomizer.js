@@ -1,4 +1,4 @@
-var roll = Math.floor(Math.random() * 0);
+var roll = Math.floor(Math.random() * models.length);
 
 var godName = getGod(roll).name;
 var godRole = getGod(roll).role;
