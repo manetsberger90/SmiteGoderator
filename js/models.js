@@ -4,6 +4,8 @@ var models = [
         id: 0,
         name: 'Agni',
         role: 'Mage',
+        buildLink: 'http://www.smitefire.com/smite/guide/make-it-rain-season-2-7361',
+        guideLink: 'http://www.smitefire.com/smite/guide/make-it-rain-season-2-7361#chapter1',
     },
     {
         id: 1,
