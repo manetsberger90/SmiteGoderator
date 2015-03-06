@@ -66,4 +66,12 @@ footer ul li img {
 
 #god-result h1 {
     color: white;
+    border-style: ridge;
+    border-color: gold;
+    padding: 3em;
+    background-color: #1d1d1d;
+    text-align: left;
+}
+#god-result img {
+ text-align: left;
 }

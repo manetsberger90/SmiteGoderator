@@ -14,6 +14,7 @@ var models = [
         role: 'Hunter',
         buildLink: 'http://www.smitefire.com/smite/guide/candyman-candyman-candyman-candyman-candyman-laning-joust-updated-for-season-2-4185',
         guideLink: 'http://www.smitefire.com/smite/guide/candyman-candyman-candyman-candyman-candyman-laning-joust-updated-for-season-2-4185#chapter1',
+        imageLink: 'img/gods/amc.jpg',
     },
     {
         id: 2,
@@ -21,6 +22,7 @@ var models = [
         role: 'Hunter',
         buildLink: 'http://www.smitefire.com/smite/guide/new-slayer-of-enemies-4284',
         guideLink: 'http://www.smitefire.com/smite/guide/new-slayer-of-enemies-4284#chapter1',
+        imageLink: 'img/gods/Anhur.jpg',
     },
     {
         id: 3,
@@ -28,6 +30,7 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/a-mighty-sword-conquest-jungle-s2-5906',
         guideLink: 'http://www.smitefire.com/smite/guide/a-mighty-sword-conquest-jungle-s2-5906#chapter1',
+        imageLink: 'img/gods/Anubis.jpg',
     },
     {
         id: 4,
@@ -35,6 +38,7 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/anubis-death-incarnate-patch-1-0-2436-85',
         guideLink: 'http://www.smitefire.com/smite/guide/anubis-death-incarnate-patch-1-0-2436-85',
+        imageLink: 'img/gods/aokuang.jpg',
     },
     {
         id: 5,
@@ -42,6 +46,7 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/aphrodite-support-yes-support-7696',
         guideLink: 'http://www.smitefire.com/smite/guide/aphrodite-support-yes-support-7696#chapter1',
+        imageLink: 'img/gods/Aphrodite.jpg',
     },
     {
         id: 6,
@@ -49,6 +54,7 @@ var models = [
         role: 'Hunter',
         buildLink: 'http://www.smitefire.com/smite/guide/spare-hp-ill-be-taking-that-7829',
         guideLink: 'http://www.smitefire.com/smite/guide/spare-hp-ill-be-taking-that-7829#chapter1',
+        imageLink: 'img/gods/Apollo.jpg',
     },
     {
         id: 7,
@@ -56,6 +62,7 @@ var models = [
         role: 'Assassin',
         buildLink: 'http://www.smitefire.com/smite/guide/arachne-the-ultimate-jungle-guide-updated-for-season-2-updated-2-25-15-3965',
         guideLink: 'http://www.smitefire.com/smite/guide/arachne-the-ultimate-jungle-guide-updated-for-season-2-updated-2-25-15-3965#chapter1',
+        imageLink: 'img/gods/Arachne.jpg',
     },
     {
         id: 8,
@@ -63,6 +70,7 @@ var models = [
         role: 'Guardian',
         buildLink: 'http://www.smitefire.com/smite/guide/rage-of-war-ares-guide-update-march-1-2015-5577',
         guideLink: 'http://www.smitefire.com/smite/guide/rage-of-war-ares-guide-update-march-1-2015-5577#chapter1',
+        imageLink: 'img/gods/Ares.jpg',
         
     },
     {
@@ -70,8 +78,8 @@ var models = [
         name: 'Artemis',
         role: 'Hunter',
         buildLink: 'http://www.smitefire.com/smite/guide/here-piggy-piggy-conquest-adc-s2-5899',
-        guideLink: 'http://www.smitefire.com/smite/guide/here-piggy-piggy-conquest-adc-s2-5899#chapter1'
-        
+        guideLink: 'http://www.smitefire.com/smite/guide/here-piggy-piggy-conquest-adc-s2-5899#chapter1',
+        imageLink: 'img/gods/Artemis.jpg',
     },
     {
         id: 10,
@@ -79,6 +87,7 @@ var models = [
         role: 'Guardian',
         buildLink: 'http://www.smitefire.com/smite/guide/athena-support-guide-season-2-update-with-gameplay-video-3834',
         guideLink: 'http://www.smitefire.com/smite/guide/athena-support-guide-season-2-update-with-gameplay-video-3834#chapter1',
+        imageLink: 'img/gods/Athena.jpg',
     },
     {
         id: 11,
@@ -86,6 +95,7 @@ var models = [
         role: 'Assassin',
         buildLink: 'http://www.smitefire.com/smite/guide/suku-the-lunartic-updated-2-28-2015-7368',
         guideLink: 'http://www.smitefire.com/smite/guide/suku-the-lunartic-updated-2-28-2015-7368#chapter1',
+        imageLink: 'img/gods/Awilix.jpg',
     },
     {
         id: 12,
@@ -93,48 +103,55 @@ var models = [
         role: 'Guardian',
         buildLink: 'http://www.smitefire.com/smite/guide/bacchus-support-guide-updated-09-01-2014-4977',
         guideLink: 'http://www.smitefire.com/smite/guide/bacchus-support-guide-updated-09-01-2014-4977#chapter1',
+        imageLink: 'img/gods/Bacchus.jpg',
     },
     {
         id: 13,
         name: 'Bakasura',
         role: 'Assassin',
         buildLink: 'http://www.smitefire.com/smite/guide/bakasura-the-great-devourer-jungler-guide-update-for-new-map-on-progress-5756',
-        guideLink: 'http://www.smitefire.com/smite/guide/bakasura-the-great-devourer-jungler-guide-update-for-new-map-on-progress-5756#chapter1'
+        guideLink: 'http://www.smitefire.com/smite/guide/bakasura-the-great-devourer-jungler-guide-update-for-new-map-on-progress-5756#chapter1',
+        imageLink: 'img/gods/Bakasura.jpg',
     },
     {
         id: 14,
         name: 'Bastet',
         role: 'Assassin',
         buildLink: 'http://www.smitefire.com/smite/guide/bastet-scratch-the-game-i-jungle-amp-solo-guide-7776',
-        guideLink: 'http://www.smitefire.com/smite/guide/bastet-scratch-the-game-i-jungle-amp-solo-guide-7776#chapter1'
+        guideLink: 'http://www.smitefire.com/smite/guide/bastet-scratch-the-game-i-jungle-amp-solo-guide-7776#chapter1',
+        imageLink: 'img/gods/Bastet.jpg',
     },
     {
         id: 15,
         name: 'Bellona',
         role: 'Warrior',
         buildLink: 'http://www.smitefire.com/smite/guide/how-to-be-a-champion-with-bellona-7817',
-        guideLink: 'http://www.smitefire.com/smite/guide/how-to-be-a-champion-with-bellona-7817#chapter1'
+        guideLink: 'http://www.smitefire.com/smite/guide/how-to-be-a-champion-with-bellona-7817#chapter1',
+        imageLink: 'img/gods/Bellona.jpg',
     },
     {
         id: 16,
         name: 'Cabrakan',
         role: 'Guardian',
         buildLink: 'http://www.smitefire.com/smite/guide/cabrakan-mountain-of-terror-updated-20-02-2015-5470',
-        guideLink: 'http://www.smitefire.com/smite/guide/cabrakan-mountain-of-terror-updated-20-02-2015-5470#chapter1'
+        guideLink: 'http://www.smitefire.com/smite/guide/cabrakan-mountain-of-terror-updated-20-02-2015-5470#chapter1',
+        imageLink: 'img/gods/Cabrakan.jpg',
     },
     {
         id: 17,
         name: 'Chaac',
         role: 'Warrior',
         buildLink: 'http://www.smitefire.com/smite/guide/chaac-a-power-machine-updated-3-3-2015-6113',
-        guideLink: 'http://www.smitefire.com/smite/guide/chaac-a-power-machine-updated-3-3-2015-6113#chapter1'
+        guideLink: 'http://www.smitefire.com/smite/guide/chaac-a-power-machine-updated-3-3-2015-6113#chapter1',
+        imageLink: 'img/gods/Chaac.jpg',
     },
     {
         id: 18,
         name: "Chang'e",
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/i-whip-my-hare-back-and-forth-conquest-solo-s2-5887',
-        guideLink: 'http://www.smitefire.com/smite/guide/i-whip-my-hare-back-and-forth-conquest-solo-s2-5887#chapter1'
+        guideLink: 'http://www.smitefire.com/smite/guide/i-whip-my-hare-back-and-forth-conquest-solo-s2-5887#chapter1',
+        imageLink: 'img/gods/Change.jpg',
     },
     {
         id: 19,
@@ -142,13 +159,15 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/chronos-god-of-time-5764',
         guideLink: 'http://www.smitefire.com/smite/guide/chronos-god-of-time-5764',
+        imageLink: 'img/gods/Chronos.jpg',
     },
     {
         id: 20,
         name: 'Cupid',
         role: 'Hunter',
         buildLink: 'http://www.smitefire.com/smite/guide/i-love-you-lt-3-7755',
-        guideLink: 'http://www.smitefire.com/smite/guide/i-love-you-lt-3-7755#chapter1'
+        guideLink: 'http://www.smitefire.com/smite/guide/i-love-you-lt-3-7755#chapter1',
+        imageLink: 'img/gods/Cupid.jpg',
     },
     {
         id: 21,
@@ -156,6 +175,7 @@ var models = [
         role: 'Assassin',
         buildLink: 'http://www.smitefire.com/smite/guide/pro-fenrir-quot-the-way-of-the-wolf-quot-updated-for-season-2-3814',
         guideLink: 'http://www.smitefire.com/smite/guide/pro-fenrir-quot-the-way-of-the-wolf-quot-updated-for-season-2-3814#chapter1',
+        imageLink: 'img/gods/Fenrir.jpg',
     },
     {
         id: 22,
@@ -163,7 +183,7 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/freya-valkyric-destruction-updated-2-6-2015-5320',
         guideLink: 'http://www.smitefire.com/smite/guide/freya-valkyric-destruction-updated-2-6-2015-5320#chapter1',
-        
+        imageLink: 'img/gods/Freya.jpg',
     },
     {
         id: 23,
@@ -171,6 +191,7 @@ var models = [
         role: 'Guardian',
         buildLink: 'http://www.smitefire.com/smite/guide/geb-the-rolling-tank-season-2-update-5110',
         guideLink: 'http://www.smitefire.com/smite/guide/geb-the-rolling-tank-season-2-update-5110#chapter1',
+        imageLink: 'img/gods/Geb.jpg',
     },
     {
         id: 24,
@@ -178,6 +199,7 @@ var models = [
         role: 'Warrior',
         buildLink: 'http://www.smitefire.com/smite/guide/jos-pubstomp-team-player-guan-yo-5726',
         guideLink: 'http://www.smitefire.com/smite/guide/jos-pubstomp-team-player-guan-yo-5726#chapter1',
+        imageLink: 'img/gods/Guanyu.jpg',
     },
     {
         id: 25,
@@ -185,6 +207,7 @@ var models = [
         role: 'Guardian',
         buildLink: 'http://www.smitefire.com/smite/guide/hella-hades-solo-lane-lifesteal-7607',
         guideLink: 'http://www.smitefire.com/smite/guide/hella-hades-solo-lane-lifesteal-7607#chapter1',
+        imageLink: 'img/gods/Hades.jpg',
     },
     {
         id: 26,
@@ -192,6 +215,7 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/endless-tide-7799',
         guideLink: 'http://www.smitefire.com/smite/guide/endless-tide-7799#chapter1',
+        imageLink: 'img/gods/hebo.jpg',
     },
     {
         id: 27,
@@ -199,6 +223,7 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/cookies-bleep-cookies-hel-6015',
         guideLink: 'http://www.smitefire.com/smite/guide/cookies-bleep-cookies-hel-6015#chapter1',
+        imageLink: 'img/gods/Hel.jpg'
     },
     {
         id: 28,
@@ -206,6 +231,7 @@ var models = [
         role: 'Warrior',
         buildLink: 'http://www.smitefire.com/smite/guide/hercules-the-mighty-champion-of-rome-7601',
         guideLink: 'http://www.smitefire.com/smite/guide/hercules-the-mighty-champion-of-rome-7601#chapter1',
+        imageLink: 'img/gods/Hercules.jpg',
     },
     {
         id: 29,
@@ -213,6 +239,7 @@ var models = [
         role: 'Hunter',
         buildLink: 'http://www.smitefire.com/smite/guide/whos-he-hou-yi-updated-2-12-15-7357',
         guideLink: 'http://www.smitefire.com/smite/guide/whos-he-hou-yi-updated-2-12-15-7357#chapter1',
+        imageLink: 'img/gods/houyi.jpg',
     },
     {
         id: 30,
@@ -220,6 +247,7 @@ var models = [
         role: 'Assassin',
         buildLink: 'http://www.smitefire.com/smite/guide/not-just-monkeying-around-anymore-7690',
         guideLink: 'http://www.smitefire.com/smite/guide/not-just-monkeying-around-anymore-7690#chapter1',
+        imageLink: 'img/gods/hunbatz.jpg',
     },
     {
         id: 31,
@@ -227,6 +255,7 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/on-wings-of-victory-onward-to-season-2-under-construction-7720',
         guideLink: 'http://www.smitefire.com/smite/guide/on-wings-of-victory-onward-to-season-2-under-construction-7720#chapter1',
+        imageLink: 'img/gods/Isis.jpg',
     },
     {
         id: 32,
@@ -234,6 +263,7 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/how-to-portal-with-janus-4877',
         guideLink: 'http://www.smitefire.com/smite/guide/how-to-portal-with-janus-4877',
+        imageLink: 'img/gods/Janus.jpg',
     },
     {
         id: 33,
@@ -241,6 +271,7 @@ var models = [
         role: 'Assassin',
         buildLink: 'http://www.smitefire.com/smite/guide/patience-is-a-virtue-kali-5433',
         guideLink: 'http://www.smitefire.com/smite/guide/patience-is-a-virtue-kali-5433',
+        imageLink: 'img/gods/Kali.jpg',
     },
     {
         id: 34,
@@ -248,7 +279,7 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/burstmaster-kuku-7425',
         guideLink: 'http://www.smitefire.com/smite/guide/burstmaster-kuku-7425#chapter1',
-        
+        imageLink: 'img/gods/Kukulkan.jpg'
     },
     {
         id: 35,
@@ -256,13 +287,15 @@ var models = [
         role: 'Guardian',
         buildLink: 'http://www.smitefire.com/smite/guide/kumbhakarna-the-cc-machine-5455',
         guideLink: 'http://www.smitefire.com/smite/guide/kumbhakarna-the-cc-machine-5455#chapter1',
+        imageLink: 'img/gods/Kumbakharna.jpg',
     },
     {
         id: 36,
         name: 'Loki',
         role: 'Assassin',
         buildLink: 'http://www.smitefire.com/smite/guide/adc-loki-dunk-scrubs-and-obtain-elo-updated-for-s2-7594',
-        guideLink: 'http://www.smitefire.com/smite/guide/adc-loki-dunk-scrubs-and-obtain-elo-updated-for-s2-7594#chapter1'
+        guideLink: 'http://www.smitefire.com/smite/guide/adc-loki-dunk-scrubs-and-obtain-elo-updated-for-s2-7594#chapter1',
+        imageLink: 'img/gods/Loki.jpg',
     },
     {
         id: 37,
@@ -270,6 +303,7 @@ var models = [
         role: 'Assassin',
         buildLink: 'http://www.smitefire.com/smite/guide/mercury-the-swift-striker-jungle-7677',
         guideLink: 'http://www.smitefire.com/smite/guide/mercury-the-swift-striker-jungle-7677#chapter1',
+        imageLink: 'img/gods/Mercury.jpg',
     },
     {
         id: 38,
@@ -277,6 +311,7 @@ var models = [
         role: 'Assassin',
         buildLink: 'http://www.smitefire.com/smite/guide/ne-zha-arena-build-up-up-and-away-7744',
         guideLink: 'http://www.smitefire.com/smite/guide/ne-zha-arena-build-up-up-and-away-7744#chapter1',
+        imageLink: 'img/gods/Nezha.jpg',
     },
     {
         id: 39,
@@ -284,6 +319,7 @@ var models = [
         role: 'Hunter',
         buildLink: 'http://www.smitefire.com/smite/guide/hunter-guide-neith-your-lovely-girl-3847',
         guideLink: 'http://www.smitefire.com/smite/guide/hunter-guide-neith-your-lovely-girl-3847#chapter1',
+        imageLink: 'img/gods/Neith.jpg',
     },
     {
         id: 40,
@@ -291,6 +327,7 @@ var models = [
         role: 'Assassin',
         buildLink: 'http://www.smitefire.com/smite/guide/the-legislacerator-conquest-jungle-s2-5893',
         guideLink: 'http://www.smitefire.com/smite/guide/the-legislacerator-conquest-jungle-s2-5893#chapter1',
+        imageLink: 'img/gods/Nemesis.jpg',
     },
     {
         id: 41,
@@ -298,6 +335,7 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/embrace-the-dark-conquest-mid-s2-5871',
         guideLink: 'http://www.smitefire.com/smite/guide/embrace-the-dark-conquest-mid-s2-5871#chapter1',
+        imageLink: 'img/gods/Nox.jpg',
     },
     {
         id: 42,
@@ -305,6 +343,7 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/queen-of-the-burst-updated-2-15-15-6060',
         guideLink: 'http://www.smitefire.com/smite/guide/queen-of-the-burst-updated-2-15-15-6060#chapter1' ,
+        imageLink: 'img/gods/NuWa.jpg',
     },
     {
         id: 43,
@@ -312,6 +351,7 @@ var models = [
         role: 'Warrior',
         buildLink: 'http://www.smitefire.com/smite/guide/odin-twist-and-raven-shout-dps-tank-builds-feb-22-2015-6103',
         guideLink: 'http://www.smitefire.com/smite/guide/odin-twist-and-raven-shout-dps-tank-builds-feb-22-2015-6103#chapter1',
+        imageLink: 'img/gods/Odin.jpg',
     },
     {
         id: 44,
@@ -319,6 +359,7 @@ var models = [
         role: 'Warrior',
         buildLink: 'http://www.smitefire.com/smite/guide/osiris-guide-to-haunting-the-jungle-5776',
         guideLink: 'http://www.smitefire.com/smite/guide/osiris-guide-to-haunting-the-jungle-5776#chapter1',
+        imageLink: 'img/gods/Osiris.jpg',
     },
     {
         id: 45,
@@ -326,6 +367,7 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/poseidon-season-2-5279',
         guideLink: 'http://www.smitefire.com/smite/guide/poseidon-season-2-5279#chapter1',
+        imageLink: 'img/gods/Poseidon.jpg',
     },
     {
         id: 46,
@@ -333,6 +375,7 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/ra-mid-conquest-sniper-7547',
         guideLink: 'http://www.smitefire.com/smite/guide/ra-mid-conquest-sniper-7547#chapter1',
+        imageLink: 'img/gods/Ra.jpg',
     },
     {
         id: 47,
@@ -340,6 +383,7 @@ var models = [
         role: 'Hunter',
         buildLink: 'http://www.smitefire.com/smite/guide/rama-conquest-adc-5025',
         guideLink: 'http://www.smitefire.com/smite/guide/rama-conquest-adc-5025#chapter1',
+        imageLink: 'img/gods/Rama.jpg',
     },
     {
         id: 48,
@@ -347,6 +391,7 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/scylla-for-dummies-to-veterans-4346',
         guideLink: 'http://www.smitefire.com/smite/guide/scylla-for-dummies-to-veterans-4346#chapter1',
+        imageLink: 'img/gods/Scylla.jpg',
         
     },
     {
@@ -355,6 +400,7 @@ var models = [
         role: 'Assassin',
         buildLink: 'http://www.smitefire.com/smite/guide/serqet-jungle-guide-topping-arachnids-since-ancient-times-5206',
         guideLink: 'http://www.smitefire.com/smite/guide/serqet-jungle-guide-topping-arachnids-since-ancient-times-5206#chapter1',
+        imageLink: 'img/gods/Serqet.jpg',
     },
     {
         id: 50,
@@ -362,6 +408,7 @@ var models = [
         role: 'Guardian',
         buildLink: 'http://www.smitefire.com/smite/guide/sobek-underneath-the-wattah-wip-7724',
         guideLink: 'http://www.smitefire.com/smite/guide/sobek-underneath-the-wattah-wip-7724#chapter1',
+        imageLink: 'img/gods/Sobek.jpg',
     },
     {
         id: 51,
@@ -369,6 +416,7 @@ var models = [
         role: 'Warrior',
         buildLink: 'http://www.smitefire.com/smite/guide/to-kill-a-mockingbird-of-nope-sun-wukong-solo-and-support-guide-updated-2-14-15-updated-for-season-2-4552',
         guideLink: 'http://www.smitefire.com/smite/guide/to-kill-a-mockingbird-of-nope-sun-wukong-solo-and-support-guide-updated-2-14-15-updated-for-season-2-4552#chapter1',
+        imageLink: 'img/gods/swk.jpg',
     },
     {
         id: 52,
@@ -383,6 +431,7 @@ var models = [
         role: 'Assassin',
         buildLink: 'http://www.smitefire.com/smite/guide/thanatos-death-incarnate-season-two-5290',
         guideLink: 'http://www.smitefire.com/smite/guide/thanatos-death-incarnate-season-two-5290#chapter1',
+        imageLink: 'img/gods/Thanatos.jpg',
     },
     {
         id: 54,
@@ -390,6 +439,7 @@ var models = [
         role: 'Assassin',
         buildLink: 'http://www.smitefire.com/smite/guide/thor-wielder-of-season-2s-mj-lnir-under-construction-7751',
         guideLink: 'http://www.smitefire.com/smite/guide/thor-wielder-of-season-2s-mj-lnir-under-construction-7751#chapter1',
+        imageLink: 'img/gods/Thor.jpg',
     },
     {
         id: 55,
@@ -397,6 +447,7 @@ var models = [
         role: 'Warrior',
         buildLink: 'http://www.smitefire.com/smite/guide/tearing-it-up-as-tyr-updated-combos-5271',
         guideLink: 'http://www.smitefire.com/smite/guide/tearing-it-up-as-tyr-updated-combos-5271#chapter1',
+        imageLink: 'img/gods/Tyr.jpg',
     },
     {
         id: 56,
@@ -404,6 +455,7 @@ var models = [
         role: 'Hunter',
         buildLink: 'http://www.smitefire.com/smite/guide/ullr-the-terror-of-duo-lane-7691',
         guideLink: 'http://www.smitefire.com/smite/guide/ullr-the-terror-of-duo-lane-7691#chapter1',
+        imageLink: 'img/gods/Ullr.jpg',
     },
     {
         id: 57,
@@ -411,7 +463,7 @@ var models = [
         role: 'Warrior',
         buildLink: 'http://www.smitefire.com/smite/guide/vamana-of-course-3258',
         guideLink: 'http://www.smitefire.com/smite/guide/vamana-of-course-3258#chapter1',
-        
+        imageLink: 'img/gods/Vamana.jpg',
     },
     {
         id: 58,
@@ -419,6 +471,7 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/you-shall-not-pass-7679',
         guideLink: 'http://www.smitefire.com/smite/guide/you-shall-not-pass-7679#chapter1',
+        imageLink: 'img/gods/Vulcan.jpg',
     },
     {
         id: 59,
@@ -426,6 +479,7 @@ var models = [
         role: 'Hunter',
         buildLink: 'http://www.smitefire.com/smite/guide/a-guide-to-xbalanque-the-hidden-jaguar-updated-for-season-2-updated-2-24-14-4631',
         guideLink: 'http://www.smitefire.com/smite/guide/a-guide-to-xbalanque-the-hidden-jaguar-updated-for-season-2-updated-2-24-14-4631#chapter1',
+        imageLink: 'img/gods/Xbalanque.jpg',
     },
     {
         id: 60,
@@ -433,6 +487,7 @@ var models = [
         role: 'Guardian',
         buildLink: 'http://www.smitefire.com/smite/guide/dont-be-cold-come-on-in-updated-04-03-2015-s2-2430',
         guideLink: 'http://www.smitefire.com/smite/guide/dont-be-cold-come-on-in-updated-04-03-2015-s2-2430#chapter1',
+        imageLink: 'img/gods/Ymir.jpg',
     },
     {
         id: 61,
@@ -440,6 +495,7 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/who-you-gonna-call-god-buster-zhong-kui-5986',
         guideLink: 'http://www.smitefire.com/smite/guide/who-you-gonna-call-god-buster-zhong-kui-5986#chapter1',
+        imageLink: 'img/gods/zhongkui.jpg',
         
     },
     {
@@ -448,6 +504,7 @@ var models = [
         role: 'Mage',
         buildLink: 'http://www.smitefire.com/smite/guide/adc-attack-speed-zeus-6018' ,
         guideLink: 'http://www.smitefire.com/smite/guide/adc-attack-speed-zeus-6018#chapter1',
+        imageLink: 'img/gods/Zeus.jpg',
     },
 ]
     
