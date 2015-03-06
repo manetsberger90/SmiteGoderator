@@ -3,9 +3,9 @@ var roll = Math.floor(Math.random() * models.length);
 var godName = getGod(roll).name;
 var godRole = getGod(roll).role;
 var godBuildLink = getGod(roll).buildLink;
-var godGuide = getGod(roll).guide;
+var godGuide = getGod(roll).guideLink;
 
-var $overlay = $('<div id="overlay"><h1 class="godOverlay">' + '</hi>' + '<p id="name">' + godName + "</p>" + '<p id="role">' + godRole + '</p>' + '<p id="buildLink">' + '<a href="' + godBuildLink + '"> Recommended Build' + '</a></p>' + '</h1></div>');
+    var $overlay = $('<div id="overlay">' + '<h1 class="godOverlay">' + '</hi>' + '<p id="name">' + godName + "</p>" + '<p id="role">' + godRole + '</p>' + '<p id="buildLink">' + '<a href="' + godBuildLink + '"> Recommended Build' + '</a></p>' + '</h1></div>');
 
 //JQUERY START
 
